@@ -10,7 +10,7 @@ You will have two directories:
 
 The directory named 'websocket' is a server-side spring boot project and 'websocket-client' is a client-side Angular app. 
 
-To install required node_modules 'for websocket-client', run the following command
+To install the required node_modules for 'websocket-client', run the following command
 > npm i
 
-This will install all the dependencies required for your client-side Angular app.
+This will install all the dependencies required. Now, you're ready to go for **ng serve**
