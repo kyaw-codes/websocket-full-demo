@@ -2,7 +2,8 @@
 Source code for my medium artical called "Simple chat application with Spring WebSocket and Angular 10"
 
 ## How it works
-Firstly, colne this repository in your local machine via **git clone https://github.com/kyaw-codes/websocket-full-demo.git**.
+Firstly, colne this repository in your local machine via 
+> git clone https://github.com/kyaw-codes/websocket-full-demo.git
 
 You will have two directories: 
 - websocket and
