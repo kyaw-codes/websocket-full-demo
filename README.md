@@ -15,7 +15,7 @@ To install the required node_modules for 'websocket-client', run the following c
 
 This will install all the dependencies required. Now, you're ready to go for **ng serve**
 
-### My articles link
+### My article links
 Part I: 
 https://medium.com/@kyaw.monkey/simple-chat-application-with-spring-websocket-and-angular-10-part-1-b55b007ac2a1
 
